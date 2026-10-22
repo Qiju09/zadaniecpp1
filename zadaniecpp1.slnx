@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="zadaniecpp1.vcxproj" Id="8aa51cd7-fdde-4988-93f3-53356fd04cd3" />
+</Solution>
